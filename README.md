@@ -1,6 +1,21 @@
 # hapi-swagger
 
 
+
+# VERSION 2 OF SWAGGER UI
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Swagger UI](https://github.com/wordnik/swagger-ui) plug-in for [HAPI](http://hapijs.com/) v8.  When installed it will self document HTTP API interface in a project.
 
 
